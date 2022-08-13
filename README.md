@@ -31,15 +31,10 @@ API docs is [available here](https://jiosaavn-api-v3.vercel.app/docs).
 - Connect with your Forked Repo
 - Deploy
 
-### Using this API:
 
-- [Whatsbot](https://github.com/tuhinpal/Whatsbot "Whatsbot")
-- [Musicder](https://github.com/tuhinpal/Musicder "Musicder")
-- [Musicder Bot](https://t.me/musicder_bot "Musicder Bot")
-- [Saavn Downloader Extension](https://github.com/naqushab/saavn-downloader-extension "saavn-downloader-extension")
-- [TGVCBot](https://github.com/ArnabXD/TGVCBot "@ArnabXD/TGVCBot")
-
-_Impliment this API on your Project & send a message [here](https://t.me/t_projects "here") to get featured in this section._
+_Impliment this API on your Project & send a message [here](https://t.me/coderaryan "here") to get featured in this section._
 <br>
 
 ## Star this Repo if you Liked it ⭐⭐⭐
+
+### Dev : Tuhin pal
