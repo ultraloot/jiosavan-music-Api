@@ -5,7 +5,7 @@
   "main": "api/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tuhinpal/JiosaavnAPI.git"
+    "url": "git+https://github.com/Coderaryan-offical/jiosavan-music-Api.git"
   },
   "scripts": {
     "dev": "nodemon index.js",
@@ -22,12 +22,12 @@
     "jiosaavn-api",
     "jiosaavn-serverless-api"
   ],
-  "author": "Tuhin Kanti Pal",
+  "author": "Coderaryan",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/tuhinpal/JiosaavnAPI/issues"
+    "url": "https://github.com/Coderaryan-offical/jiosavan-music-Api/issues"
   },
-  "homepage": "https://github.com/tuhinpal/JiosaavnAPI#readme",
+  "homepage": "https://github.com/Coderaryan-offical/jiosavan-music-Api#readme",
   "devDependencies": {
     "nodemon": "^2.0.18"
   }
